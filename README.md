@@ -1,0 +1,2 @@
+# Minimizing-Customer-Churn-Rate
+Subscription products often are the main source of revenue for companies across all industries. These products can come in the form of a 'one size fits all' overcompassing subscription, or in multi-level memberships. Regardless of how they structure their membership, or what industry they are in, companies almost always try to minimize customer churn (in other words ; Subscription Cancellation). To retain their customers, these companies first need to identify behavioral patterns that act as catalyst in disengagement with the product. 
